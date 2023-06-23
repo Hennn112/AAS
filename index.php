@@ -28,7 +28,7 @@
     <main class="content">
         <h3>Masjid Besar SMK Wikrama Bogor</h3>
         <p>Mari <span>Tingkatkan Keimanan</span> Masyarakat SMK Wikrama Bogor.</p>
-        <a href="input.php">Beri Bantuan Shodaqoh</a>
+        <a href="input.php" target="_blank">Beri Bantuan Shodaqoh</a>
     </main>
 
     <div class="content-img">
@@ -254,7 +254,7 @@
     </div>
 </section>
 
-<section class="wakaf">
+<section class="wakaf" id="data">
     <div class="cara-wakaf">
       <p><span>Data Donatur </span>Wakaf, Infaq <br>Shodaqoh. </p>
       <h5>Berikut Adalah Data Donatur Wakaf, Infaq Sodaqoh Untuk <br> Masjid Besar SMK Wikrama Bogor.</h5>

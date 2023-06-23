@@ -8,7 +8,6 @@
 <body>
     <center>
         <?php
-
     $servername = "localhost";
     $username = "root";
     $password = "";
